@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "allenact",
+  "versions": [
+    {
+      "commit": "d055fc9d4533f086e0340fe0a838ed42c28d932e",
+      "tag": "",
+      "parsed_at": "2026-11-07T21:49:46.615831+00:00"
+    }
+  ]
+}
