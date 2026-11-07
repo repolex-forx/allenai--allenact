@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/allenact/commit/d055fc9d4533f086e0340fe0a838ed42c28d932e",
       "git:hexsha": "d055fc9d4533f086e0340fe0a838ed42c28d932e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T21:49:46.615259+00:00"
     },
     {
       "@id": "https://repolex.ai/r/allenai/allenact/commit/62e33fd48256be3ddbfd0b41ee2c89b6ac94c92e",
